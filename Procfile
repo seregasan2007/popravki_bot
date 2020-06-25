@@ -1,2 +1,2 @@
-web: go build bot.go
-web: bot
+worcker: go build bot.go
+worcker: bot
