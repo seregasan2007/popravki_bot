@@ -1,2 +1,2 @@
-web: go get -u gopkg.in/tucnak/telebot.v2
+web: go build bot.go
 web: bot
